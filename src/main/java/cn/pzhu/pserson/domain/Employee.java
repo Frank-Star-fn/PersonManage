@@ -17,7 +17,7 @@ public class Employee {
 
     private String name;
 
-    @Column(name = "cardId")
+    @Column(name = "card_id")
     private String cardId;
 
     private String address;
